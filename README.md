@@ -74,19 +74,19 @@ API Data Collection → ETL Pipeline → Data Cleaning → Feature Engineering �
 
 ## Executive Overview Dashboard
 
-![Dashboard](images/power 1.png)
+![Dashboard](images/power1.png)
 
 ---
 
 ## Salary Analysis Dashboard
 
-![Salary Analysis](images/power 2.png)
+![Salary Analysis](images/power2.png)
 
 ---
 
 ## Skill Demand Dashboard
 
-![Skill Demand](images/power 3.png)
+![Skill Demand](images/power3.png)
 
 ---
 
